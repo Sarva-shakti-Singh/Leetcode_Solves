@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0482-license-key-formatting](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0482-license-key-formatting) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
