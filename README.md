@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
