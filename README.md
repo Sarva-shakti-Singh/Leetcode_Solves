@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
