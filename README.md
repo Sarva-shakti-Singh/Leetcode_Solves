@@ -43,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1729-find-followers-count) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
