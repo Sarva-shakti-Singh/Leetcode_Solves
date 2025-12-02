@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
 ## Enumeration
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
