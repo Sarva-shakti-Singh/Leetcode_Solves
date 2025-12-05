@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0401-binary-watch) |
 ## Stack
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 ## Math
 |  |
