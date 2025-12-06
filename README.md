@@ -74,4 +74,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
