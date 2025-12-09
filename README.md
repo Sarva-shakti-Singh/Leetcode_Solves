@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
