@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0184-department-highest-salary) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
