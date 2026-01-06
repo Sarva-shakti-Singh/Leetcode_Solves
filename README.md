@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +107,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
