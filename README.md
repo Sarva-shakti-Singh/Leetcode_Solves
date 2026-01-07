@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
