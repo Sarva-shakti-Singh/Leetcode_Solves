@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0482-license-key-formatting](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0482-license-key-formatting) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Binary Search
 |  |
 | ------- |
