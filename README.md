@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0225-implement-stack-using-queues) |
+| [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
+| [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
