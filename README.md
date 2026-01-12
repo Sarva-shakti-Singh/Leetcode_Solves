@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
