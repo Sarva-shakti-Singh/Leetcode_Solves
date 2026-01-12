@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
 | [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Enumeration
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1114-print-in-order) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
