@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0237-delete-node-in-a-linked-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
