@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0876-middle-of-the-linked-list) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
