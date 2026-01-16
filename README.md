@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0184-department-highest-salary) |
+| [0585-investments-in-2016](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0585-investments-in-2016) |
 | [1070-product-sales-analysis-iii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1070-product-sales-analysis-iii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1407-top-travellers) |
