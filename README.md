@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0113-path-sum-ii) |
+| [0207-course-schedule](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0234-palindrome-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
