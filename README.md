@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1729-find-followers-count) |
+| [1890-the-latest-login-in-2020](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1890-the-latest-login-in-2020) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
