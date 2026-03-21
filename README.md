@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
