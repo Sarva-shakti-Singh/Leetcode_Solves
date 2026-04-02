@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0445-add-two-numbers-ii) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 ## Queue
