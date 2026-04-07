@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1890-the-latest-login-in-2020) |
+| [1907-count-salary-categories](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
