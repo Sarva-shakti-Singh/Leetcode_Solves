@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
