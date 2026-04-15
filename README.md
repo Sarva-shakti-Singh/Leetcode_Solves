@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0213-house-robber-ii) |
 | [0705-design-hashset](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0705-design-hashset) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1266-minimum-time-visiting-all-points) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0343-integer-break) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarva-shakti-Singh/Leetcode_Solves/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Binary Search
